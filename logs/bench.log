@@ -1,0 +1,5 @@
+2019-09-12 14:46:40,011 INFO getting app erpnext
+2019-09-12 14:46:40,048 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2019-09-12 14:46:48,370 INFO installing erpnext
+2019-09-12 14:46:48,370 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-12 14:47:24,848 INFO bench build --app erpnext
